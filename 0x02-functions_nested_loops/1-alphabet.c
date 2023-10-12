@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * main - print_alphabets - print alphabets
+ * main - print_alphabet - print alphabets
  *
  */
 void print_alphabet(void)
 {
 	char al;
-	
+
 	al = 'a';
 	while (al <= 'z')
 	{
